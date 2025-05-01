@@ -71,10 +71,11 @@ Each `.ipynb` notebook corresponds to a specific topic covered in the course:
 
 ---
 
-##Results
+## Results
 Sample outputs and visualizations are included in each experiment's folder demonstrating the implemented techniques.
 
-##Author
+## Author
 Pranav GS
 B.Tech Artificial Intelligence and Data Science
+Madras Institute of Technology, Anna University
 
